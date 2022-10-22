@@ -14,8 +14,7 @@ I am a Clinical Psychologist and a Researcher in Epidemiology with an interest i
 
 - AFT Foundation Level. Family & Systemic Training Accredited
 
-- Intermediate Level, Family and Systemic Training (Supervised hours completed not yet accredited)
-
+- AFT Intermediate Level, Family  & Systemic Training (Completed supervised hours - not yet accredited)
 
 <div style="text-align: center;">
  <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
