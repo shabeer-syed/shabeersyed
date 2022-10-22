@@ -32,7 +32,7 @@ Archives of disease in childhood, 106(1), 44-53.
 
 --------------
 
-[Global prevalence and risk factors for mental health problems in police personnel: a systematic review and meta-analysis.}(https://oem.bmj.com/content/77/11/737.full)
+[Global prevalence and risk factors for mental health problems in police personnel: a systematic review and meta-analysis.](https://oem.bmj.com/content/77/11/737.full)
 
 Syed, S., Ashwick, R., Schlosser, M., Jones, R., Rowe, S., & Billings, J. (2020). 
 
@@ -48,74 +48,37 @@ International journal of older people nursing, 15(3), e12320.
 
 --------------
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+[Association between health indicators of maternal adversity and the rate of infant entry to local authority care in England: a longitudinal ecological study.](https://bmjopen.bmj.com/content/10/8/e036564.full)
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Pearson, R. J., Jay, M. A., Wijlaars, L. P. M. M., De Stavola, B., Syed, S., Bedston, S. J., & Gilbert, R. (2020). 
 
-## Another great heading (h2)
+BMJ open, 10(8), e036564.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+--------------
 
-### Some great subheading (h3)
+[Maternal adversity and variation in the rate of children entering local authority care during infancy in England: a longitudinal ecological study.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32873-9/fulltext)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+Pearson, R., Jay, M. A., Wijlaars, L., De Stavola, B. L., Syed, S., Bedston, S., & Gilbert, R. (2019). 
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+The Lancet, 394, S76.
 
-### Some great subheading (h3)
+--------------
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+[Parental alcohol misuse has major effects on children’s health and development.](https://www.bmj.com/content/364/bmj.l912.full)
 
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
+Syed, S., & Gilbert, R. (2019).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+BMJ, 364.
 
-### Some great subheading (h3)
+--------------
 
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
+Parental alcohol misuse and the impact on children: a rapid evidence review of service presentations and interventions.
+ 
+Syed, S., Gilbert, R., & Wolpert, M. (2018).
+ 
+NIHR Children's Policy Research Unit
 
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
+--------------
 
 ## Headings are cool! (h2)
 
