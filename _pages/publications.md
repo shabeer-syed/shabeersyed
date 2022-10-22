@@ -72,7 +72,7 @@ BMJ, 364.
 
 --------------
 
-Parental alcohol misuse and the impact on children: a rapid evidence review of service presentations and interventions.
+[Parental alcohol misuse and the impact on children: a rapid evidence review of service presentations and interventions.](https://www.ucl.ac.uk/children-policy-research/sites/children-policy-research/files/parental-alcohol-misuse-and-impact-on-children.pdf)
  
 Syed, S., Gilbert, R., & Wolpert, M. (2018).
  
