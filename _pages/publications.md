@@ -9,13 +9,44 @@ permalink: /publications/
 --------------
 
 [Identifying adverse childhood experiences with electronic health records of linked mothers and children in England: a multistage development and validation study.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
+
 Syed, S., Gonzalez-Izquierdo, A., Allister, J., Feder, G., Li, L., & Gilbert, R. (2022).
+
 The Lancet Digital Health.
 
---------------------
+--------------
+
+[Are children who are home from school at an increased risk of child maltreatment?.](https://academic.oup.com/jpubhealth/article/43/1/e127/5878146)
+
+Syed, S., & Gilbert, R. (2021). 
+
+Journal of Public Health, 43(1), e127-e128.
+
+--------------
+
+[Predictive value of indicators for identifying child maltreatment and intimate partner violence in coded electronic health records: a systematic review and meta-analysis.](https://adc.bmj.com/content/106/1/44.full)
+
+Syed, S., Ashwick, R., Schlosser, M., Gonzalez-Izquierdo, A., Li, L., & Gilbert, R. (2021). 
+
+Archives of disease in childhood, 106(1), 44-53.
+
+--------------
+
+[Global prevalence and risk factors for mental health problems in police personnel: a systematic review and meta-analysis.}(https://oem.bmj.com/content/77/11/737.full)
 
 Syed, S., Ashwick, R., Schlosser, M., Jones, R., Rowe, S., & Billings, J. (2020). 
-Global prevalence and risk factors for mental health problems in police personnel: a systematic review and meta-analysis. Occupational and environmental medicine, 77(11), 737-747.
+
+Occupational and environmental medicine, 77(11), 737-747.
+
+--------------
+
+[Dog‐assisted interventions and outcomes for older adults in residential long‐term care facilities: A systematic review and meta‐analysis.](https://onlinelibrary.wiley.com/doi/full/10.1111/opn.12320)
+
+Jain, B., Syed, S., Hafford‐Letchfield, T., & O’Farrell‐Pearce, S. (2020).
+
+International journal of older people nursing, 15(3), e12320.
+
+--------------
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 
