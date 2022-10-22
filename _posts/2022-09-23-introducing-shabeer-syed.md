@@ -4,10 +4,10 @@ title: Introducing Shabeer Syed
 categories: [Introduction]
 ---
 
-I am a Clinical Psychologist and an Epidemiologist (Researcher) with an interest in child and adolescent mental health and long-term health outcomes of adverse childhood experiences. This website currently acts as a placeholder this webdomain name and potential future projects.
+I am a Clinical Psychologist and an Epidemiologist (Researcher) with an interest in child and adolescent mental health and long-term health outcomes of adverse childhood experiences. This website currently acts as a holder for this  webdomain name and  potential future projects.
 
 ## Psychologist
-
+- Doctor of Clinical Psychology (DClinPsych), University of Oxford 2022
 - BABCP Level 2 Accredited - CBT therapist
 - AFT Foundation Level. Family & Systemic Training Accredited
 - Intermediate Level, Family and Systemic Training (Supervised hours completed not yet accredited)
