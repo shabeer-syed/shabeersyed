@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Sorted by most recent
+## Sorted by most recent | [Google schoolar profile](https://scholar.google.com/citations?user=tayvv1MAAAAJ&hl=en&oi=ao)
 
 --------------
 
@@ -80,4 +80,3 @@ NIHR Children's Policy Research Unit
 
 --------------
 
-## [Google schoolar profile](https://scholar.google.com/citations?user=tayvv1MAAAAJ&hl=en&oi=ao)
