@@ -4,7 +4,7 @@ title: Introduction
 categories: [Welcome!]
 ---
 
-I am a Clinical Psychologist and a Researcher in Epidemiology with an interest in child and adolescent mental health and long-term health outcomes of adverse childhood experiences. This website is currently acting as a holder for this webdomain name and any potential future projects.
+I am a Clinical Psychologist and a Researcher in Epidemiology with an interest in child and adolescent mental health and long-term health outcomes of adverse childhood experiences. This website is currently acting as a holder for this webdomain name only, with potential to expand with any future projects.
 
 ## Psychologist
 
