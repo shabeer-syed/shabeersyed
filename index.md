@@ -10,9 +10,9 @@ I am a Clinical Psychologist and a Researcher in Epidemiology with an interest i
 
 - Doctor of Clinical Psychology (DClinPsych), University of Oxford 2022
 
-- BABCP Level 2 Accredited - CBT therapist
+- BABCP Level 2 - CBT therapist Accredited
 
-- AFT Foundation Level. Family & Systemic Training Accredited
+- AFT Foundation Level, Family & Systemic Training Accredited
 
 - AFT Intermediate Level, Family  & Systemic Training (Completed supervised hours - not yet accredited)
 
