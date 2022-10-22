@@ -26,7 +26,7 @@ footer-links:
   flickr:
   github: shabeer-syed/shabeersyed
   instagram:
-  linkedin: https://uk.linkedin.com/in/dr-shabeer-syed-987468244
+  linkedin: dr-shabeer-syed-987468244
   pinterest:
   rss: rss
   twitter: Shabeer1Syed
@@ -48,8 +48,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://www.shabeersyed.com
+enforce_ssl: https://www.shabeersyed.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
