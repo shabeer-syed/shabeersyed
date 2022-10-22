@@ -4,7 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
-## Some great heading (h2)
+## Sorted by most recent
+
+--------------
+
+[Identifying adverse childhood experiences with electronic health records of linked mothers and children in England: a multistage development and validation study.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
+Syed, S., Gonzalez-Izquierdo, A., Allister, J., Feder, G., Li, L., & Gilbert, R. (2022).
+The Lancet Digital Health.
+
+--------------------
+
+Syed, S., Ashwick, R., Schlosser, M., Jones, R., Rowe, S., & Billings, J. (2020). 
+Global prevalence and risk factors for mental health problems in police personnel: a systematic review and meta-analysis. Occupational and environmental medicine, 77(11), 737-747.
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
 
