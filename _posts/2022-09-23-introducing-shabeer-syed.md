@@ -16,8 +16,8 @@ I am a Clinical Psychologist and an Epidemiologist (Researcher) with an interest
  <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
 </div>
 
-## License
+## Researcher
 
-MIT
+-[See publication list](https://shabeer-syed.github.io/shabeersyed/publications/)
 
 
