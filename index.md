@@ -4,7 +4,7 @@ title: Introduction
 categories: [Introduction]
 ---
 
-I am a Clinical Psychologist and an Epidemiologist (Researcher) with an interest in child and adolescent mental health and long-term health outcomes of adverse childhood experiences. This website currently acts as a holder for this  webdomain name and  potential future projects.
+I am a Clinical Psychologist and a Researcher in Epidemiology with an interest in child and adolescent mental health and long-term health outcomes of adverse childhood experiences. This website currently acts as a holder for this  webdomain name and  potential future projects.
 
 ## Psychologist
 
@@ -25,7 +25,7 @@ I am a Clinical Psychologist and an Epidemiologist (Researcher) with an interest
 
 - Senior Research Associate, [NIHR Children and Families Policy Research Unit](https://www.ucl.ac.uk/children-policy-research/), UCL Great Ormond Street Institute of Child Health
 
-- Developed [www.ACEsinEHRs.com](www.ACEsinEHRs.com), an online platform of validate indicators of ACEs for research using electronic health records
+- Founder of [www.ACEsinEHRs.com](www.ACEsinEHRs.com), an online platform of validated indicators of ACEs for research using electronic health records
 
 - [See publication list](https://shabeer-syed.github.io/shabeersyed/publications/)
 
