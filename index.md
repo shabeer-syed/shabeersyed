@@ -4,12 +4,13 @@ title: Dr Shabeer Syed
 categories: [Welcome!]
 ---
 
-Dr Shabeer Syed. I am a Clinical Psychologist and a Researcher in Epidemiology with an interest in child and adolescent mental health and long-term health outcomes of adverse childhood experiences. This website is currently acting as a holder for this webdomain name only, with potential to expand for future projects.
+I am a Clinical Psychologist and a Researcher in Epidemiology with an interest in child and adolescent mental health (CAMH) and long-term health outcomes of adverse childhood experiences. This website is currently acting as a holder for this webdomain name only, with potential to expand for future projects.
 
-## Psychologist
+## Clinical Psychologist
 
 - Doctor of Clinical Psychology (DClinPsych), University of Oxford 2022
-
+   - *HCPC registered, work in the NHS*
+   
 - BABCP Level 2 - CBT therapist Accredited
 
 - AFT Foundation Level, Family & Systemic Training Accredited
