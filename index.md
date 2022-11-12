@@ -4,7 +4,7 @@ title: Dr Shabeer Syed
 categories: [Welcome!]
 ---
 
-<img style="float: right;" src="/images/shabeer%20profile%20cropped.png" alt="Shabeer Syed" width="150"/>
+<img style="float: right;" src="/images/shabeer%20syed.png" alt="Shabeer Syed" width="150"/>
 I am a Clinical Psychologist and a Researcher in Epidemiology. I work in child and adolescent mental health (CAMH), and my research focuses on adverse childhood experiences (ACEs) and improving the health of vulnerable families across the early life course. This website is currently acting as a holder for the web domain name only, with the potential to grow for future projects.
 
 ## Clinical Psychologist
