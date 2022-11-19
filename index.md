@@ -5,12 +5,12 @@ categories: [Welcome!]
 ---
 
 <img style="float: right;" src="/images/shabeer%20syed.png" alt="Shabeer Syed" width="150"/>
-I am a Clinical Psychologist and a Researcher in Epidemiology. I work in child and adolescent mental health (CAMH), and my research focuses on adverse childhood experiences (ACEs) and improving the health of vulnerable families across the early life course. This website is currently acting as a holder for the web domain name only, with the potential to grow for future projects.
+I am a Clinical Psychologist and a Researcher in Epidemiology. I work in child and adolescent mental health setvices (CAMHS). My research focuses on adverse childhood experiences (ACEs) and improving the health of vulnerable families across the early life course. This website is currently acting as a holder for the web domain name only, with the potential to grow for future projects.
 
 ## Clinical Psychologist
 
-- Doctor of Clinical Psychology (DClinPsych), University of Oxford 2022
-   - *HCPC registered, work in the NHS*
+- Doctor of Clinical Psychology (DClinPsych), University of Oxford
+   - *HCPC registered, work only within the NHS*
    
 - BABCP Level 2 - CBT therapist Accredited
 
