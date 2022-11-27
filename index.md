@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr Shabeer Syed
+title: Shabeer Syed
 categories: [Welcome!]
 ---
 
@@ -12,7 +12,7 @@ I am a Clinical Psychologist and a Researcher in Epidemiology. I work in child a
 - Doctor of Clinical Psychology (DClinPsych), University of Oxford
    - *HCPC registered, work only within the NHS*
    
-- BABCP Level 2 - CBT therapist Accredited
+- BABCP Level 2 Accredited - CBT Therapist 
 
 - AFT Foundation Level, Family & Systemic Training Accredited
 
