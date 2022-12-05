@@ -16,9 +16,6 @@ I am a Clinical Psychologist and a Researcher in Epidemiology. I work in child a
 
 - AFT Foundation Level, Family & Systemic Training Accredited
 
-<div style="text-align: center;">
- <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
-</div>
 
 ## Researcher
 
