@@ -10,12 +10,8 @@ I am a Clinical Psychologist and a Researcher in Epidemiology. I work in child a
 ## Clinical Psychologist
 
 - Doctor of Clinical Psychology (DClinPsych), University of Oxford
-   - *HCPC registered, work only within the NHS*
-   
-- BABCP Level 2 Accredited - CBT Therapist 
-
-- AFT Foundation Level, Family & Systemic Training Accredited
-
+   - HCPC registered, CBT therapist BABCP Level 2 Accredited, Family & Systemic Training AFT Foundation Level Accredited
+   - *work only within the NHS*
 
 ## Researcher
 
