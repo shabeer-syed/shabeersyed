@@ -8,6 +8,14 @@ permalink: /publications/
 
 --------------
 
+[Family adversity and health characteristics associated with intimate partner violence in children and parents presenting to health care: a population-based birth cohort study in England.](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(23)00119-6/fulltext)
+
+Syed, S., Gilbert, R., Feder, G., Howe, L. D.,  Powell, E., Howarth E., Deighton, J., & Lacey B (2023). 
+
+Lancet Public Health 2023; 8: e520–34.
+
+--------------
+
 [Identifying adverse childhood experiences with electronic health records of linked mothers and children in England: a multistage development and validation study.](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00061-9/fulltext)
 
 Syed, S., Gonzalez-Izquierdo, A., Allister, J., Feder, G., Li, L., & Gilbert, R. (2022).
