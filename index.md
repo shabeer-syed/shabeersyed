@@ -21,3 +21,13 @@ I am a Clinical Psychologist and an Epidemiologist. I work clinically in child a
 - Founder of [www.ACEsinEHRs.com](https://acesinehrs.com/), an online platform of validated indicators of ACEs for research using electronic health records
 
 - [See publication list](https://shabeer-syed.github.io/shabeersyed/publications/)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TZ0Q814394"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TZ0Q814394');
+</script>
