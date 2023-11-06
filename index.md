@@ -17,7 +17,7 @@ I am a Clinical Psychologist and an Epidemiologist. I work clinically in child a
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/shabeersyed/master/images/ucl%20logo.png" alt="shabeer ucl ich"/>
 - Senior Research Associate, [NIHR Children and Families Policy Research
   Unit](https://www.ucl.ac.uk/children-policy-research/), UCL Great Ormond Street Institute of Child Health
-
+[![](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0002-4349-418)
 - Founder of [www.ACEsinEHRs.com](https://acesinehrs.com/), an online platform of validated indicators of ACEs for research using electronic health records
 
 - [See publication list](https://shabeer-syed.github.io/shabeersyed/publications/)
