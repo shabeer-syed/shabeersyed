@@ -10,8 +10,8 @@ I am a Clinical Psychologist and an Epidemiologist. I work clinically in child a
 ## Clinical Psychologist
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/shabeersyed/master/images/ox%20logo.png" alt="ox shabeer Syed"/>
 - Doctor of Clinical Psychology (DClinPsych), University of Oxford
-   - HCPC registered, CBT therapist BABCP Level 2 Accredited, Family & Systemic Training AFT Foundation Level 
-   - *I work only within the NHS*
+   - HCPC registered, CBT Therapist BABCP Level 2 Accredited, Family & Systemic Training AFT Foundation Level, NVR trained, ADOS-2 trained, YMCA Level 3 Certificate in PT etc
+   - *I work only within the NHS* 
 
 ## Researcher
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/shabeersyed/master/images/ucl%20logo.png" alt="shabeer ucl ich"/>
