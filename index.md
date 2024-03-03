@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Shabeer Syed
-categories: [Welcome!]
+categories: [About]
 ---
 
 <img style="float: right;" src="/images/shabeer%20syed.png" alt="Shabeer Syed" width="150"/>
-I am a Clinical Psychologist and an Epidemiologist. I work clinically in child and adolescent mental health services (CAMHS). My research focuses on adverse childhood experiences (ACEs) and improving the health of vulnerable families across the early life course. This website is currently acting as a host for the domain name only, with the potential for future expansion.
+Clinical Psychologist specialising in child and adolescent mental health (CAMHS) and Senior Research Associate in Epidemiology at UCL Great Ormond Street Institute of Child Health. My research focuses on understanding the negative health effects of adverse childhood experiences (ACEs) and providing epidemiological evidence to inform policy change for improved care pathways for vulnerable children and families. This website is currently acting as a host for the domain name only, with the potential for future expansion.
 
 ## Clinical Psychologist
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/shabeersyed/master/images/ox%20logo.png" alt="ox shabeer Syed"/>
