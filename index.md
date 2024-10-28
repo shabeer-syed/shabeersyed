@@ -10,7 +10,8 @@ Clinical Psychologist specialising in child and adolescent mental health (CAMHS)
 ## Clinical Psychologist
 <img style="float: right;" src="https://raw.githubusercontent.com/shabeer-syed/shabeersyed/master/images/ox%20logo.png" alt="ox shabeer Syed"/>
 - Doctor of Clinical Psychology (DClinPsych), University of Oxford
-   - HCPC registered, CBT Therapist BABCP Level 2 Accredited, Family & Systemic Training AFT Foundation Level, NVR trained, ADOS-2 trained, YMCA Level 3 Certificate in PT etc
+   - HCPC registered, CBT Therapist BABCP Level 2 Accredited, Family & Systemic Training AFT Foundation Level, NVR trained, ADOS-2 trained, ADI-R trained, YMCA Level 3 Certificate in PT etc
+   - Specialise within adolescent outreach and young people with multimorbidity
    - *I work only within the NHS* 
 
 ## Researcher
