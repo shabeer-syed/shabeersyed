@@ -8,6 +8,14 @@ permalink: /publications/
 
 --------------
 
+[Domestic abuse, primary care and child mental health services: A systems analysis of service coordination from professionals’ perspectives](https://doi.org/10.1016/j.childyouth.2024.108076)
+
+Powell C, Adisa O, Herlitz L, Bains S, Clark SE, Deighton J, Syed S, Gilbert R, Feder G, Howarth E. (2024)
+
+Children and Youth Services Review. 2024 Dec 18:108076.
+
+--------------
+
 [Family adversity and health characteristics associated with intimate partner violence in children and parents presenting to health care: a population-based birth cohort study in England.](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(23)00119-6/fulltext)
 
 Syed, S., Gilbert, R., Feder, G., Howe, L. D.,  Powell, E., Howarth E., Deighton, J., & Lacey B (2023). 
