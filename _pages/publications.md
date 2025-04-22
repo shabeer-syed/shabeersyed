@@ -8,6 +8,14 @@ permalink: /publications/
 
 --------------
 
+[Adverse childhood experiences in firstborns and mental health risk and health-care use in siblings: a population-based birth cohort study of half a million children in England](https://doi.org/10.1016/S2468-2667(24)00301-3)
+
+Syed S, Howe LD, Lacey RE, Deighton J, ul Arfeen MQ, Feder G, Gilbert R. (2025)
+
+The Lancet Public Health. 2025 Feb 1;10(2):e111-23.
+
+--------------
+
 [Domestic abuse, primary care and child mental health services: A systems analysis of service coordination from professionals’ perspectives](https://doi.org/10.1016/j.childyouth.2024.108076)
 
 Powell C, Adisa O, Herlitz L, Bains S, Clark SE, Deighton J, Syed S, Gilbert R, Feder G, Howarth E. (2024)
