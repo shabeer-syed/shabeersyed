@@ -8,6 +8,12 @@ permalink: /publications/
 
 --------------
 
+[Systematic Review and Meta-Analysis: Effectiveness of Intensive Community Care Services and Psychosocial Interventions for Adolescents With Severe Mental Health Problems](https://doi.org/10.1016/j.jaac.2026.01.006)
+Syed, S., Sanchez, A. P., Adesiyan, P., Rabot, K., Sanson, L. J., Eaton, R., & Ougrin, D. (2026).
+Journal of the American Academy of Child & Adolescent Psychiatry.
+
+--------------
+
 [Adverse childhood experiences in firstborns and mental health risk and health-care use in siblings: a population-based birth cohort study of half a million children in England](https://doi.org/10.1016/S2468-2667(24)00301-3)
 
 Syed S, Howe LD, Lacey RE, Deighton J, ul Arfeen MQ, Feder G, Gilbert R. (2025)
