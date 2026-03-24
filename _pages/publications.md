@@ -9,7 +9,9 @@ permalink: /publications/
 --------------
 
 [Systematic Review and Meta-Analysis: Effectiveness of Intensive Community Care Services and Psychosocial Interventions for Adolescents With Severe Mental Health Problems](https://doi.org/10.1016/j.jaac.2026.01.006)
+
 Syed, S., Sanchez, A. P., Adesiyan, P., Rabot, K., Sanson, L. J., Eaton, R., & Ougrin, D. (2026).
+
 Journal of the American Academy of Child & Adolescent Psychiatry.
 
 --------------
